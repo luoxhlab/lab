@@ -2,6 +2,7 @@
 
 ## Selected Publications
 
+- Huang L, Wang Q, Li HL, Peng W, Yang L, Liu L, Wang L, Luo XH*. Flu/Cy Plus PTCy Conditioning Regimen in Haplo‐HSCT of Severe Aplastic Anemia. American Journal of Hematology. 2026.
 -	Luo XH*, Zhu Y, Duan XQ, Peng W, Pei CX, Yang L, Li Q, Zhao M, Wang L. Histone HIST1 genes and tumor-infiltrating lymphocytes in a child with γδ T cell acute lymphoblastic leukemia by single-cell sequencing. Journal of Leukocyte Biology. 2025 Apr;117(4):qiaf022.
 -	Shui LP, Zhu Y, Duan XQ, Chen YT, Yang L, Tang XQ, Zhang HB, Xiao Q, Wang L, Liu L, Luo XH*. HBsAg (‐)/HBsAb (‐)/HBeAg (‐)/HBeAb (+)/HBcAb (+) predicts a high risk of hepatitis B reactivation in patients with B ‐ cell lymphoma receiving rituximab based immunochemotherapy. Journal of Medical Virology. 2023 Feb 3.
 -	Luo XH*, Poiret T, Liu Z, Meng Q, Nagchowdhury A, Ljungman P. Different recovery patterns of CMV-specific and WT1-specific T cells in patients with acute myeloid leukemia undergoing allogeneic hematopoietic cell transplantation: Impact of CMV infection and leukemia relapse. Frontiers in Immunology. 2022;13.
