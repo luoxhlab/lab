@@ -16,7 +16,6 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 
 
 ## Students & Trainees
-- Na-Na Tang
 - Ju Li
 - Li Huang
 - Jiu-Fang Cao
@@ -25,11 +24,11 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 - Ruo-Nan Zhang
 - Jing Wen
 - Cai-Xia Pei
-- Xin Xie
 - Shuang Zhuo
 - Jin-Hong Sun
 - Qiong Xiao
 - Xue-Ning Zhou
+- Yuan Hui
 
 
 ## Alumni
@@ -46,4 +45,6 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 - Wen Peng
 - Lan Wang
 - He-Lian Li
+- Na-Na Tang
+- Xin Xie
 
