@@ -74,21 +74,21 @@ body {
 <div class="lab-container">
 
   <div class="lab-section">
-    <h2>Virus-driven immune remodeling in transplantation and cellular therapies</h2>
+    <h2>Viral Immunity and Immune Remodeling in Transplantation and Cellular Therapy</h2>
     <p>
       We study how viral exposures reshape immune reconstitution after HSCT, CAR-T therapy, and other advanced cellular treatments. Using longitudinal high-dimensional immune profiling, we map immune trajectories and identify signatures associated with key clinical outcomes. Computational models integrate viral kinetics with immune dynamics to guide precision monitoring and therapeutic decision-making.
     </p>
   </div>
 
   <div class="lab-section">
-    <h2>Precision immunology and immunotherapy in acute leukemia</h2>
+    <h2>Precision Immunology and Therapeutic Innovation in Acute Leukemia</h2>
     <p>
       Acute leukemia provides a key model for understanding therapy-driven immune remodeling. We examine how treatment strategies and the evolving immune landscape shape disease outcomes, and explore immunotherapy approaches aimed at strengthening antileukemic immunity and improving long-term survival.
     </p>
   </div>
 
   <div class="lab-section">
-    <h2>Integrating HSCT and CAR-T with multimodal immunotherapies</h2>
+    <h2>Cellular Therapy Optimization and Integrated Immunotherapeutic Strategies</h2>
     <p>
       We integrate HSCT, CAR-T, and additional immune-based approaches to develop multimodal therapeutic strategies aimed at improving long-term disease control in hematologic malignancies.
     </p>
